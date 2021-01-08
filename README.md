@@ -8,4 +8,5 @@ Instructions:
 3. Click the setup button on the prefab you put in your scene.
 
 Pandaas discord server: https://discord.gg/Xt6mgjK
+
 EtheriVR discord server: https://discord.gg/pR8dWwfxx6
