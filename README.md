@@ -1,11 +1,11 @@
 # TwistBoneAutoSetup
 
-This script and prefab will setup twist bones for pandas base.
+This script and will setup twist bones for pandas base.
+You find the tool under "Tools" => "Etheri - Twist Bone Setup"
 
 Instructions:
-1. Drop prefab into scene.
-2. Ensure you have only 1 avatar enabled.
-3. Click the setup button on the prefab you put in your scene.
+1. Drop your avatars Armature into the Armature slot in the tool.
+2. Click the setup button once the tool says it's happy with your armature.
 
 Pandaas discord server: https://discord.gg/Xt6mgjK
 
